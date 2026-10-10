@@ -55,3 +55,6 @@ CodeCoverage/
 *.VisualState.xml
 TestResult.xml
 nunit-*.xml
+/.vs/genai-dotnet/v18
+/.vs/genai-dotnet/FileContentIndex
+/ChatApp_RAG/ChatApp_RAG.csproj.user
